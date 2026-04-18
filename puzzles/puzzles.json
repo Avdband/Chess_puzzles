@@ -1,0 +1,17 @@
+[
+  {
+    "fen": "r1bqkb1r/pppp1ppp/2n2n2/4p2Q/2B1P3/8/PPPP1PPP/RNB1K1NR w KQkq - 4 4",
+    "solution_san": "Qxf7#",
+    "description": "Белые начинают. Мат в 1 ход"
+  },
+  {
+    "fen": "8/5pk1/5n1p/4p3/4P3/5N1P/5PK1/8 w - - 0 1",
+    "solution_san": "Ne5",
+    "description": "Белые начинают. Найдите выигрыш фигуры"
+  },
+  {
+    "fen": "rnbqkbnr/pppp1ppp/8/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR w KQkq - 0 2",
+    "solution_san": "Qh5",
+    "description": "Белые начинают. Атака на пункт f7"
+  }
+]
